@@ -40,8 +40,5 @@ input {
 }
 .postcard-footer {
 	text-align: center;
-	button {
-		padding: white;
-		background-color: grey;
-	}
+	
 }
